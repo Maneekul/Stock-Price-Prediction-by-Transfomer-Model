@@ -11,3 +11,5 @@ can certainly explore it as a learning experience and to gain insights into the 
 trends. Just keep in mind that accurate stock prediction requires a deep understanding of 
 financial markets and additional data sources, not just the model itself
 
+
+This project is not finished yet.
